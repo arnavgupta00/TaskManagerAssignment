@@ -1,7 +1,8 @@
 # To-Do List Application
 
 This is a simple To-Do List application that allows users to manage their tasks. The application supports creating, reading, updating, and deleting (CRUD) tasks. Each task has a title, description, status (e.g., pending, in-progress, completed), and due date.
-This is an assignment from AI Certs.
+
+### This is an assignment from AI Certs.
 
 
 ## Technologies Used
@@ -29,8 +30,8 @@ This is an assignment from AI Certs.
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/your-username/todo-app.git
-    cd todo-app
+    git clone https://github.com/arnavgupta00/TaskManagerAssignment.git
+    cd TaskManagerAssignment
     ```
 
 2. Install dependencies for both frontend and backend:
