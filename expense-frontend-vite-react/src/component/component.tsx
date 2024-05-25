@@ -77,7 +77,6 @@ export default function Component() {
                   ? "bg-gray-200 dark:bg-gray-800"
                   : "text-gray-700 hover:bg-gray-200 dark:text-gray-400 dark:hover:bg-gray-800"
               }`}
-              href="#"
               onClick={() => setFilter("All")}
             >
               <svg
@@ -103,7 +102,6 @@ export default function Component() {
                   ? "bg-gray-200 dark:bg-gray-800"
                   : "text-gray-700 hover:bg-gray-200 dark:text-gray-400 dark:hover:bg-gray-800"
               }`}
-              href="#"
               onClick={() => setFilter("Today")}
             >
               <svg
